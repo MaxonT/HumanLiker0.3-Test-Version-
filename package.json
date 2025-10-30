@@ -1,0 +1,12 @@
+{
+  "name": "humanliker-demo",
+  "version": "0.3.0",
+  "description": "HumanLiker v0.3 static demonstration application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
